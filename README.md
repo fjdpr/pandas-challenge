@@ -30,9 +30,7 @@ The dataset includes information on various schools, such as:
 ## Instructions
 ### PyCity Schools
 1. Ensure the `schools_complete.csv` and `students_complete.csv` files are in the `Resources` folder.
-2. Run the PyCity Schools script with the following command:
-```sh
-python pycity_schools.py
+2. Run the PyCity Schools script
 
 ## Contributions
 
